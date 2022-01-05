@@ -1,2 +1,2 @@
-# Learning Vue
-[Academind Curriculum ](https://pro.academind.com/courses/enrolled/1112161)
+# Learning Nuxt
+[Academind Curriculum ](https://pro.academind.com/courses/768623/)
