@@ -10,7 +10,7 @@
     </section>
     <section class="post-feedback">
       <p>
-        Let me know whast you think about the post, please send an email
+        Let me know what you think about the post, please send an email
         <a href="mailto:frank.pigeonjr@gmail.com">frank.pigeonjr@gmail.com</a>
       </p>
     </section>
