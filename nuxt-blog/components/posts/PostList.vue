@@ -20,7 +20,7 @@ export default {
   },
   props: {
     isAdmin: {
-      type: Boolean,
+  type: Boolean,
       default: false,
     },
     posts: {
