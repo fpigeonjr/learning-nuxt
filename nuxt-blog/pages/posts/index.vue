@@ -39,6 +39,9 @@ export default {
         context.error(new Error());
       });
   },
+  created() {
+    this.$store.dispatch("setPosts", this.loadedPosts);
+  },
   name: "PostsPage",
 };
 </script>
